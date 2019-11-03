@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './Assets/estilos.css'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
